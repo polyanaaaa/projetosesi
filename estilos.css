@@ -1,0 +1,21 @@
+.city {
+    background-color: rgb(255, 255, 255);
+    font
+    color: white;
+    margin: 20px;
+    padding; 20px;
+    }
+
+    .corpo {
+        background-color: rgb(219, 6, 6);
+        color: white;
+        border: 2px solid black;
+        margin: 1px;
+        padding: 10px;
+        }
+
+        .rodape {
+            background-color: rgb(245, 102, 7);
+            color: rgb(0, 0, 0);
+          
+            }
